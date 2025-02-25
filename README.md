@@ -9,6 +9,8 @@ This Streamlit app implements an AI-powered customer support agent for synthetic
 - Synthetic data generation for testing and demonstration
 - Utilizes OpenAI's GPT-4o model for intelligent responses
 
+![High-Level Architecture Diagram](./High-Level%20Architecture%20Diagram.svg)
+
 ### Getting Started
 
 Follow these steps to set up the project:
